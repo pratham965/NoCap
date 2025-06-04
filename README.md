@@ -11,10 +11,6 @@ A real-time social media platform that automatically flags potential misinformat
 - **Persistent usernames** via localStorage
 - **Content reporting system** with multiple categories
 - 
-### Prerequisites
-- Node.js (vXX+)
-- Python 3.X
-- pip
 
 ## Installation
 
