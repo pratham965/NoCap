@@ -1,1 +1,30 @@
 .env
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+bin/
+lib/
+pyvenv.cfg
+include/
+share/
+*.egg-info/
+site-packages/
+
+# Distribution / packaging
+build/
+dist/
+*.egg
+*.whl
+
+# Other
+*.log
+*.sqlite3
+.DS_Store
+
