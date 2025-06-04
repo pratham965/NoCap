@@ -10,7 +10,6 @@ A real-time social media platform that automatically flags potential misinformat
 - **User warnings** with confidence levels and source attribution
 - **Persistent usernames** via localStorage
 - **Content reporting system** with multiple categories
-- 
 
 ## Installation
 
