@@ -2,8 +2,7 @@
 
 (
   cd MLBackend-server/ || exit
-  echo "Activating virtual environment and starting Python server..."
-  source ./bin/activate
+  echo "Starting Python server..."
   python3 newserver.py
 ) &
 
