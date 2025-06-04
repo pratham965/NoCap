@@ -1,1 +1,1 @@
-![](nocap.svg)
+![](logo.png)
